@@ -15,7 +15,7 @@
 		<script type="text/javascript" src="/SUITest/scripts/boot.js"></script>
 	</head>
 	<body>
-	this is for test
+	this is for test test1
 		<div showCollapseButton="true">
 			<div style="margin-left: 10px">
 
